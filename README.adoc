@@ -1,0 +1,17 @@
+= Hangman
+
+== Запуск
+
+Скачать колесо (wheel) артефактов, положить в загруженную папку 
+	
+	Hangman_new
+	
+	
+В терминале из папки Hangman_new, выполнить: 
+	
+	pip3 install dist/hangman-1.0.0-py3-none-any.whl
+	
+	
+В терминале выполнить: 
+		
+		hangman
